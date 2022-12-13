@@ -1,4 +1,4 @@
-This repository contains my Masters thesis. The file named `Thesis.pdf` contains the full thesis. Files named `Presntation*` contain a condensed version of the material that I presented in my thesis defense.
+This repository contains my mathematics master's thesis. The file named `Thesis.pdf` contains the full work. Files named `Presentation*` contain a condensed version of the material that I presented in my thesis defense.
 
 
 # Critical Points of Deep Linear Networks in $\mathbb{C}^N$
