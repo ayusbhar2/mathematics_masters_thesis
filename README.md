@@ -1,4 +1,6 @@
-This repository contains my mathematics master's thesis (paper submission awaiting approval; preprint [here](https://arxiv.org/abs/2301.12651)). The file named `Thesis.pdf` contains the full work. Files named `Presentation*` contain a condensed version of the material that I presented in my thesis defense. Accompanying code that was used to produce experimental results can be found [here](https://github.com/ayusbhar2/homotopy_continuatioNN).
+*(arxiv [preprint](https://arxiv.org/abs/2301.12651) of the paper resulting from this work)*
+
+This repository contains my mathematics master's thesis. The file named `Thesis.pdf` contains the full work. Files named `Presentation*` contain a condensed version of the material that I presented in my thesis defense. Accompanying code that was used to produce experimental results can be found [here](https://github.com/ayusbhar2/homotopy_continuatioNN).
 
 
 # Critical Points of Deep Linear Networks in $\mathbb{C}^N$
